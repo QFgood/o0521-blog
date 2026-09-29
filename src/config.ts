@@ -12,10 +12,10 @@ import { LinkPreset } from "./types/config";
  */
 export const siteConfig: SiteConfig = {
 	// 网站标题
-	title: "O0521 Blog",
+	title: "O0521",
 
 	// 网站副标题
-	subtitle: "记录技术、折腾与生活",
+	subtitle: "生命在于折腾",
 
 	// 网站语言
 	lang: "zh_CN",
@@ -97,7 +97,7 @@ export const profileConfig: ProfileConfig = {
 	name: "O0521",
 
 	// 个人简介
-	bio: "记录我折腾过的东西，以及一些经验与思考。",
+	bio: "生命在于不断折腾新鲜事物",
 
 	// 社交链接
 	links: [
@@ -105,6 +105,9 @@ export const profileConfig: ProfileConfig = {
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/QFgood",
+			name: "bilibili",
+			icon: "https://www.bilibili.com/favicon.ico",
+			url: "https://space.bilibili.com/521013857",
 		},
 	],
 };
