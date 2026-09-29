@@ -91,7 +91,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	// 暂时继续使用 Fuwari 默认头像
 	// 后面可以换成你自己的图片
-	avatar: "assets/images/demo-avatar.png",
+	avatar: "assets/images/photo_2026-09-29_13-54-51.jpg",
 
 	// 名称
 	name: "O0521",
@@ -118,7 +118,7 @@ export const profileConfig: ProfileConfig = {
  */
 export const licenseConfig: LicenseConfig = {
 	// 开启文章版权信息
-	enable: true,
+	enable: false,
 
 	// CC BY-NC-SA 4.0
 	name: "CC BY-NC-SA 4.0",
