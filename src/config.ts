@@ -111,7 +111,7 @@ export const profileConfig: ProfileConfig = {
 		icon: "fa6-brands:bilibili",
 		url: "https://space.bilibili.com/521013857",
 	},
-};
+},
 
 /**
  * 文章许可证
