@@ -101,15 +101,16 @@ export const profileConfig: ProfileConfig = {
 
 	// 社交链接
 	links: [
-		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/QFgood",
-			name: "bilibili",
-			icon: "https://www.bilibili.com/favicon.ico",
-			url: "https://space.bilibili.com/521013857",
-		},
-	],
+	{
+		name: "GitHub",
+		icon: "fa6-brands:github",
+		url: "https://github.com/QFgood",
+	},
+	{
+		name: "Bilibili",
+		icon: "fa6-brands:bilibili",
+		url: "https://space.bilibili.com/521013857",
+	},
 };
 
 /**
